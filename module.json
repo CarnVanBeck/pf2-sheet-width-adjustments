@@ -21,5 +21,8 @@
     ],
     "scripts": [
       "/scripts/sheetWidth.js"
-    ]
-  }
+    ],
+  "url": "https://github.com/CarnVanBeck/pf2-sheet-width-adjustments",
+  "download": "https://github.com/CarnVanBeck/pf2-sheet-width-adjustments/archive/v0.3.zip",
+  "manifest": "https://raw.githubusercontent.com/CarnVanBeck/pf2-sheet-width-adjustments/master/module.json",
+}
